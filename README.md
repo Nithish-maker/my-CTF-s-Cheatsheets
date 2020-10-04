@@ -61,9 +61,9 @@ GoBuster-flag	                                       Description
 -e	                                                 Print the full URLs in your console
 -u	                                                 The target URL to bruteforce
 -w	                                                 Path to your wordlist to crack with it
--U and -P	                                           Single known Username and Password for Basic Auth
+-U and -P	                                          Single known Username and Password for Basic Auth
 -p <x>	                                             Proxy to use for requests
--x                                                   Extensions to search with the directory
+-x                                                  Extensions to search with the directory
   
  8. SEARCHING FOR SUID FILES FROM THE ROOT DIRECTORY : 
  
@@ -102,7 +102,7 @@ GoBuster-flag	                                       Description
  
  kiwi : most updated version of mimikatz
  
- 13.OHSINT TOOLS :
+ 14.OHSINT TOOLS :
  
  exiftool : extract metadata of an image with crucial copyrights name
  
@@ -110,4 +110,40 @@ GoBuster-flag	                                       Description
  
  wigle : https://www.wigle.net/   ----> for finding the location of the WAP and ssid using the bssid more specifically.
  
-  
+ 15.SCRIPTS FOR PRIVELEGE ESCALATION : 
+ 
+ LINENUM :
+ 
+ https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+ 
+ IMPAKCET :
+ 
+ https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
+ 
+ https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+ 
+ LINUX KERNEL EXPLOIT SUGGESTER : 
+ 
+ https://github.com/mzet-/linux-exploit-suggester/
+ 
+ 16.USE PWNDBG AND GDB FOR COMPILING PROGRAMS AND BINARY FILES : 
+ 
+ https://docs.pwntools.com
+ 
+ 17.ONLINE HASH CRACKING LINKS : 
+ 
+ CRACKSTATION:  https://crackstation.net/
+ 
+ HASHRC: https://md5hashing.net/
+ 
+ ROT-CIPHER: https://www.dcode.fr/rot-cipher
+ 
+ MORSE-DECODER: 
+ 
+ 18.REVERSE-SHELL-CHEATSHEETS:
+ 
+ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+ 
+ 19.COMMON PASSWORDS LIST FOR BRUTEFORCING : 
+ 
+ https://github.com/DavidWittman/wpxmlrpcbrute/blob/master/wordlists/1000-most-common-passwords.txt
