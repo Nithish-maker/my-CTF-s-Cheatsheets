@@ -19,6 +19,14 @@
 * ENCODING AND DECODING
 * REVERSE-SHELL
 * PASSWORD LIST
+* BOOTSTRAP
+* HTML
+* CSS
+* JS
+* PHP
+* MYSQL 
+* WORDPRESS
+* REACT 
 
 ## LINKS 
 
@@ -45,7 +53,13 @@
 * [dcode](https://www.dcode.fr/rot-cipher)
 * [Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
 * [Wordlists](https://github.com/DavidWittman/wpxmlrpcbrute/blob/master/wordlists/1000-most-common-passwords.txt)
-
+* [HTML](https://websitesetup.org/html5-cheat-sheet/)
+* [CSS](https://websitesetup.org/css3-cheat-sheet/)
+* [JS](https://websitesetup.org/javascript-cheat-sheet/)
+* [PHP](https://websitesetup.org/php-cheat-sheet/)
+* [MYSQL](https://websitesetup.org/mysql-cheat-sheet/)
+* [WORDPRESS](https://websitesetup.org/wordpress-cheat-sheet/)
+* [REACT](https://reactcheatsheet.com/)
 
    
 
